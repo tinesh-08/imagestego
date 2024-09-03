@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/imagestego/static/css/main.f73955f0.chunk.css",
+    "main.js": "/imagestego/static/js/main.d90eb855.chunk.js",
+    "main.js.map": "/imagestego/static/js/main.d90eb855.chunk.js.map",
+    "runtime-main.js": "/imagestego/static/js/runtime-main.5fb096f9.js",
+    "runtime-main.js.map": "/imagestego/static/js/runtime-main.5fb096f9.js.map",
+    "static/js/2.3f238141.chunk.js": "/imagestego/static/js/2.3f238141.chunk.js",
+    "static/js/2.3f238141.chunk.js.map": "/imagestego/static/js/2.3f238141.chunk.js.map",
+    "index.html": "/imagestego/index.html",
+    "precache-manifest.31bc99d8dfa1668519514538f8f02a95.js": "/imagestego/precache-manifest.31bc99d8dfa1668519514538f8f02a95.js",
+    "service-worker.js": "/imagestego/service-worker.js",
+    "static/css/main.f73955f0.chunk.css.map": "/imagestego/static/css/main.f73955f0.chunk.css.map",
+    "static/js/2.3f238141.chunk.js.LICENSE.txt": "/imagestego/static/js/2.3f238141.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/imagestego/static/media/lulocleanoutlinebold-webfont.dfe9f174.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fb096f9.js",
+    "static/js/2.3f238141.chunk.js",
+    "static/css/main.f73955f0.chunk.css",
+    "static/js/main.d90eb855.chunk.js"
+  ]
+}
